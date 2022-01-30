@@ -10,7 +10,7 @@ const Footer = () => {
             </div>
             <div>
                 <h1>Our Dental Services</h1>
-                <ul>
+                <ul className="dental">
                     <li>Dental Crowns</li>
                     <li>Cosmetic Fillings </li>
                     <li>Dental Bonding</li>
